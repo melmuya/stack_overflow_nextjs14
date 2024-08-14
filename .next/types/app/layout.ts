@@ -1,4 +1,4 @@
-// File: /home/melchizedec/Desktop/JS Mastery/Next.js/app/layout.tsx
+// File: C:\Users\MELCHIZEDEK\Desktop\DevOverflow\stack_overflow_nextjs14\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
